@@ -32,9 +32,9 @@ I'm glad to see you ,my ![Visitor Count](https://profile-counter.glitch.me/zhouh
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Let me introduce myself:
+<!-- Let me introduce myself: -->
 
-![Metrics](https://metrics.lecoq.io/zhouhuandev?template=classic&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/zhouhuandev?template=classic&config.timezone=Asia%2FShanghai) -->
 
 ## ✍ recent activities
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhouhuandev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
