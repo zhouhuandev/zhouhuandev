@@ -52,6 +52,9 @@ Let me introduce myself:
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=zhouhuandev&column=8"/>
 
+### Watch my contribution graph get eaten by the snake 🐍
+![](https://raw.githubusercontent.com/zhouhuandev/zhouhuandev/output/github-contribution-grid-snake.svg)
+
 ![Zhou Huan's github stats](https://github-readme-stats.vercel.app/api?username=zhouhuandev&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
