@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm glad to see you ,my ![Visitor Count](https://profile-counter.glitch.me/zhouhuandev/count.svg) Vistor
 
-<table frame=void>
+<table frame="void">
   <tr>
     <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></td>
