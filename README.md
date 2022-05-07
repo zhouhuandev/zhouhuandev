@@ -11,6 +11,9 @@ zhouhuandev/zhouhuandev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+### Watch my contribution graph get eaten by the snake 🐍
+![](https://raw.githubusercontent.com/zhouhuandev/zhouhuandev/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">
   Hey, I'm zhouhuandev!
 </h1>
@@ -44,18 +47,11 @@ Let me introduce myself:
 ![myskyline](skyline.gif)
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhouhuandev&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&hide=php,html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=zhouhuandev&theme=jolly" width="700">
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=zhouhuandev&column=8"/>
-
-### Watch my contribution graph get eaten by the snake 🐍
-![](https://raw.githubusercontent.com/zhouhuandev/zhouhuandev/output/github-contribution-grid-snake.svg)
-
-![Zhou Huan's github stats](https://github-readme-stats.vercel.app/api?username=zhouhuandev&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
