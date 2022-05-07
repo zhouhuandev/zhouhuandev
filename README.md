@@ -33,6 +33,25 @@ Let me introduce myself:
 
 ![Metrics](https://metrics.lecoq.io/zhouhuandev?template=classic&config.timezone=Asia%2FShanghai)
 
+## ✍ recent activities
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhouhuandev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🌠[Coding Time](https://wakatime.com/@zhouhuandev)
+> the projects I'm working on
+
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+![myskyline](skyline.gif)
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhouhuandev&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zhouhuandev&theme=jolly" width="700">
+
+## 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=zhouhuandev&column=8"/>
+
 ![Zhou Huan's github stats](https://github-readme-stats.vercel.app/api?username=zhouhuandev&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
