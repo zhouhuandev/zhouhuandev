@@ -11,8 +11,12 @@ zhouhuandev/zhouhuandev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
+
 ### Watch my contribution graph get eaten by the snake 🐍
 ![](https://raw.githubusercontent.com/zhouhuandev/zhouhuandev/output/github-contribution-grid-snake.svg)
+
+--->
 
 <h1 align="center">
   Hey, I'm zhouhuandev!
@@ -36,8 +40,12 @@ I'm glad to see you ,my ![Visitor Count](https://profile-counter.glitch.me/zhouh
 
 <!-- ![Metrics](https://metrics.lecoq.io/zhouhuandev?template=classic&config.timezone=Asia%2FShanghai) -->
 
+<!--
+
 ## ✍ recent activities
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhouhuandev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+-->
 
 ## 🌠[Coding Time](https://wakatime.com/@zhouhuandev)
 > the projects I'm working on
@@ -49,8 +57,12 @@ I'm glad to see you ,my ![Visitor Count](https://profile-counter.glitch.me/zhouh
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhuandev&hide=php,html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+<!--
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=zhouhuandev&theme=jolly" width="700">
+
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=zhouhuandev&column=8"/>
 
+-->
